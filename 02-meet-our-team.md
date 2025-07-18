@@ -240,7 +240,7 @@ nav_order: 2
 <img 
   style="float: right;" 
   src="img/Stephanie-5.jpg" 
-  width="125" height="125">
+  height="125">
   
   * Geography/GIS Instructor & Researcher, Rising Voices, Changing Coasts NSF Grant, Haskell Indian Nations University
   * <a href="mailto:swillis@haskell.edu" target="_blank">**Email**</a>
