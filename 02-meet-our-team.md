@@ -242,9 +242,9 @@ nav_order: 2
   src="LINK-TO-IMAGE-GOES-HERE" 
   width="125" height="125">
   
-  * TITLE-GOES-HERE
-  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
-  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
+  * Geography/GIS Instructor & Researcher, Rising Voices, Changing Coasts NSF Grant, Haskell Indian Nations University
+  * <a href="mailto:swillis@haskell.edu" target="_blank">**Email**</a>
+  * <a href="https://swillis88.github.io">**Website**</a>
 
 ***
 
